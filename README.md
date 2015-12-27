@@ -1,2 +1,1 @@
-# webstorm-shortcut
-webstorm快捷键总结
+# webstorm快捷键总结
