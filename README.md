@@ -13,7 +13,8 @@
 
 * 新建文件：Command+'N'
 * 查找打开文件：连按2次Shift
-
+* ALT-SHIFT 上下：整行上下移动
+* ALT-Command-L：格式调整
 
 
 ### emmet
