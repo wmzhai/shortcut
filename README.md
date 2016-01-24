@@ -1,7 +1,13 @@
 # webstorm快捷键总结
 
+# 常用
 
-# 快速录入html/css
+* 新建文件：Command+'N'
+* 查找打开文件：连按2次Shift
+
+
+
+# 熟练掌握emmet
 
 输入div.row按tab键，自动生成
 
