@@ -1,13 +1,22 @@
-# webstorm快捷键总结
 
-# 常用
+
+## Macbook
+
+* CONTROL 上，下      （等价于三指上下）
+* CONTROL 左，右 换屏 （等价于三指左右）
+
+
+
+## webstorm
+
+### 常用
 
 * 新建文件：Command+'N'
 * 查找打开文件：连按2次Shift
 
 
 
-# 熟练掌握emmet
+### emmet
 
 输入div.row按tab键，自动生成
 
